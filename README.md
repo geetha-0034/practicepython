@@ -1,4 +1,4 @@
-Abstract
+#Abstract
 The "Strong Password Detection" project is a simple yet practical Python script built to help users create stronger, more secure passwords. In a world where cybersecurity threats are growing every day, using weak passwords is still one of the most common mistakes people make. This project aims to address that by giving users a clear and instant way to check how strong their password really is.
 
 At the heart of the script is Python’s re module, which uses regular expressions to test the password against a few common but important rules. To be considered strong, a password must:
